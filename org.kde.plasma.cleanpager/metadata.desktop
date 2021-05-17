@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Clean Pager
+Comment=Switch between virtual desktops
+Icon=user-desktop
+Type=Service
+X-Plasma-API=declarativeappletscript
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-Provides=org.kde.plasma.virtualdesktops
+X-KDE-PluginInfo-Author=The Plasma Team
+X-KDE-PluginInfo-Email=plasma-devel@kde.org
+X-KDE-PluginInfo-Name=org.kde.plasma.cleanpager
+X-KDE-PluginInfo-Version=4.0
+X-KDE-PluginInfo-Website=https://userbase.kde.org/Plasma/Pager
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-EnabledByDefault=true
